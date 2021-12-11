@@ -1,0 +1,2 @@
+model_checkpoint_path: "ffn_model_cross_entropy.ckpt"
+all_model_checkpoint_paths: "ffn_model_cross_entropy.ckpt"
